@@ -10,17 +10,18 @@ body
 	height:100%;
 	margin:0px;
 	padding:0px;
+	overflow:hidden;
 }
 #level1
 {
 	background-image:url("C:/Users/vince/Desktop/404 game/image/level2.jpg");
-
 	width:1003000px;
 	background-repeat: repeat-x;
 	height:100%;
 	position:absolute;
 	left:0px;
 	right:;
+	overflow-x:hidden;
 }
 
 
