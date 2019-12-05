@@ -14,7 +14,7 @@ body
 }
 #level1
 {
-	background-image:url("C:/Users/vince/Desktop/404 game/image/level2.jpg");
+	background-image:url("../image/img4.png");	
 	width:1003000px;
 	background-repeat: repeat-x;
 	height:100%;
@@ -22,6 +22,16 @@ body
 	left:0px;
 	right:;
 	overflow-x:hidden;
+}
+.dino
+{
+
+	position:fixed;
+	width: 80px;
+	height: 120px;
+	bottom:0px;
+	left:100px;
+
 }
 
 
