@@ -1,0 +1,94 @@
+html{
+	width:100%;
+	height:100%;
+	margin:0px;
+	padding:0px;
+}
+body
+{
+	width:100%;
+	height:100%;
+	margin:0px;
+	padding:0px;
+	overflow:hidden;
+}
+#level1
+{
+	background-image:url("../image/img42.png");	
+	width:1003000px;
+	background-repeat: repeat-x;
+	height:100%;
+	position:absolute;
+	left:0px;
+	right:;
+	overflow-x:hidden;
+}
+#header
+{
+	width:80px;
+	height:120px;
+	background-size:cover;
+
+
+}
+.dino
+{
+	background-image:url(../image/dino_c.png);
+	position:fixed;
+	width: 80px;
+	height: 120px;
+	bottom:0px;
+	left:100px;
+
+}
+.dino1
+{
+	background-image:url(../image/dino_c2.png);
+	position:fixed;
+	width: 80px;
+	height: 120px;
+	bottom:0px;
+	left:100px;
+}
+.dino2
+{
+	background-image:url(../image/dino_c3.png);
+	position:fixed;
+	width: 80px;
+	height: 120px;
+	bottom:0px;
+	left:100px;
+}
+
+.dinos
+{
+	background-image:url(../image/dinos1.png);
+	position:fixed;
+	width: 80px;
+	height: 120px;
+	bottom:0px;
+	left:100px;
+}
+
+.dinos1
+{
+	background-image:url(../image/dinos2.png);
+	position:fixed;
+	width: 80px;
+	height: 120px;
+	bottom:0px;
+	left:100px;
+}
+
+.catchedElements
+{
+	position:fixed;
+	width: 80px;
+	height:120px;
+	bottom:500px;
+	right:100px;
+}
+
+.step {
+
+}
